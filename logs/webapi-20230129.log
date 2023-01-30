@@ -1,0 +1,202 @@
+[2023-01-29 20:10:56.648 +00:00  INF]  Now listening on: https://localhost:7193
+[2023-01-29 20:10:56.698 +00:00  INF]  Now listening on: http://localhost:5087
+[2023-01-29 20:10:56.704 +00:00  INF]  Application started. Press Ctrl+C to shut down.
+[2023-01-29 20:10:56.704 +00:00  INF]  Hosting environment: Development
+[2023-01-29 20:10:56.705 +00:00  INF]  Content root path: C:\Data\Code\socgen\MarketDataProj\MarketDataProj\
+[2023-01-29 20:10:57.482 +00:00  INF]  Request starting HTTP/2 GET https://localhost:7193/swagger - -
+[2023-01-29 20:10:57.641 +00:00  INF]  Request finished HTTP/2 GET https://localhost:7193/swagger - - - 301 0 - 164.9256ms
+[2023-01-29 20:10:57.643 +00:00  INF]  Request starting HTTP/2 GET https://localhost:7193/swagger/index.html - -
+[2023-01-29 20:10:58.016 +00:00  INF]  Request starting HTTP/2 GET https://localhost:7193/_framework/aspnetcore-browser-refresh.js - -
+[2023-01-29 20:10:58.016 +00:00  INF]  Request starting HTTP/2 GET https://localhost:7193/_vs/browserLink - -
+[2023-01-29 20:10:58.016 +00:00  INF]  Request starting HTTP/2 GET https://localhost:7193/swagger/swagger-ui-bundle.js - -
+[2023-01-29 20:10:58.016 +00:00  INF]  Request starting HTTP/2 GET https://localhost:7193/swagger/swagger-ui-standalone-preset.js - -
+[2023-01-29 20:10:58.016 +00:00  INF]  Request starting HTTP/2 GET https://localhost:7193/swagger/swagger-ui.css - -
+[2023-01-29 20:10:58.018 +00:00  INF]  Request finished HTTP/2 GET https://localhost:7193/swagger/index.html - - - 200 - text/html;charset=utf-8 375.2380ms
+[2023-01-29 20:10:58.025 +00:00  INF]  Request finished HTTP/2 GET https://localhost:7193/_framework/aspnetcore-browser-refresh.js - - - 200 11990 application/javascript;+charset=utf-8 9.0758ms
+[2023-01-29 20:10:58.064 +00:00  INF]  Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+[2023-01-29 20:10:58.064 +00:00  INF]  Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+[2023-01-29 20:10:58.064 +00:00  INF]  Request finished HTTP/2 GET https://localhost:7193/swagger/swagger-ui.css - - - 200 143632 text/css 47.6777ms
+[2023-01-29 20:10:58.064 +00:00  INF]  Request finished HTTP/2 GET https://localhost:7193/swagger/swagger-ui-standalone-preset.js - - - 200 337162 application/javascript 48.2125ms
+[2023-01-29 20:10:58.071 +00:00  INF]  Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+[2023-01-29 20:10:58.071 +00:00  INF]  Request finished HTTP/2 GET https://localhost:7193/swagger/swagger-ui-bundle.js - - - 200 1092889 application/javascript 54.9461ms
+[2023-01-29 20:10:58.077 +00:00  INF]  Request finished HTTP/2 GET https://localhost:7193/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 60.6047ms
+[2023-01-29 20:10:58.186 +00:00  INF]  Request starting HTTP/2 GET https://localhost:7193/swagger/v1/swagger.json - -
+[2023-01-29 20:10:58.216 +00:00  INF]  Request starting HTTP/2 GET https://localhost:7193/swagger/favicon-32x32.png - -
+[2023-01-29 20:10:58.217 +00:00  INF]  Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+[2023-01-29 20:10:58.217 +00:00  INF]  Request finished HTTP/2 GET https://localhost:7193/swagger/favicon-32x32.png - - - 200 628 image/png 0.7488ms
+[2023-01-29 20:10:58.398 +00:00  INF]  Request finished HTTP/2 GET https://localhost:7193/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 211.8937ms
+[2023-01-29 20:12:15.152 +00:00  INF]  Request starting HTTP/2 GET https://localhost:7193/MarketDataUpload?jobId=123e4567-e89b-12d3-a456-426614174000 - -
+[2023-01-29 20:12:15.160 +00:00  INF]  Executing endpoint 'MarketDataProj.Controllers.MarketDataUploadController.GetJobDetail (MarketData)'
+[2023-01-29 20:12:15.205 +00:00  INF]  Route matched with {action = "GetJobDetail", controller = "MarketDataUpload"}. Executing controller action with signature System.Threading.Tasks.Task`1[MarketData.Common.Models.MarketDataContributionRequest] GetJobDetail(System.Guid) on controller MarketDataProj.Controllers.MarketDataUploadController (MarketData).
+[2023-01-29 20:18:28.648 +00:00  INF]  Now listening on: https://localhost:7193
+[2023-01-29 20:18:28.682 +00:00  INF]  Now listening on: http://localhost:5087
+[2023-01-29 20:18:28.685 +00:00  INF]  Application started. Press Ctrl+C to shut down.
+[2023-01-29 20:18:28.685 +00:00  INF]  Hosting environment: Development
+[2023-01-29 20:18:28.685 +00:00  INF]  Content root path: C:\Data\Code\socgen\MarketDataProj\MarketDataProj\
+[2023-01-29 20:18:29.273 +00:00  INF]  Request starting HTTP/2 GET https://localhost:7193/swagger/index.html - -
+[2023-01-29 20:18:29.598 +00:00  INF]  Request starting HTTP/2 GET https://localhost:7193/_framework/aspnetcore-browser-refresh.js - -
+[2023-01-29 20:18:29.598 +00:00  INF]  Request starting HTTP/2 GET https://localhost:7193/_vs/browserLink - -
+[2023-01-29 20:18:29.607 +00:00  INF]  Request finished HTTP/2 GET https://localhost:7193/swagger/index.html - - - 200 - text/html;charset=utf-8 348.7077ms
+[2023-01-29 20:18:29.608 +00:00  INF]  Request finished HTTP/2 GET https://localhost:7193/_framework/aspnetcore-browser-refresh.js - - - 200 11990 application/javascript;+charset=utf-8 8.3961ms
+[2023-01-29 20:18:29.622 +00:00  INF]  Request finished HTTP/2 GET https://localhost:7193/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 23.9181ms
+[2023-01-29 20:18:29.746 +00:00  INF]  Request starting HTTP/2 GET https://localhost:7193/swagger/v1/swagger.json - -
+[2023-01-29 20:18:29.887 +00:00  INF]  Request finished HTTP/2 GET https://localhost:7193/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 141.0601ms
+[2023-01-29 20:18:48.806 +00:00  INF]  Request starting HTTP/2 GET https://localhost:7193/MarketDataUpload?jobId=123e4567-e89b-12d3-a456-426614174000 - -
+[2023-01-29 20:18:48.813 +00:00  INF]  Executing endpoint 'MarketDataProj.Controllers.MarketDataUploadController.GetJobDetail (MarketData)'
+[2023-01-29 20:18:48.861 +00:00  INF]  Route matched with {action = "GetJobDetail", controller = "MarketDataUpload"}. Executing controller action with signature System.Threading.Tasks.Task`1[MarketData.Common.Models.MarketDataContributionRequest] GetJobDetail(System.Guid) on controller MarketDataProj.Controllers.MarketDataUploadController (MarketData).
+[2023-01-29 20:19:31.608 +00:00  INF]  Executed action MarketDataProj.Controllers.MarketDataUploadController.GetJobDetail (MarketData) in 42732.8675ms
+[2023-01-29 20:19:31.619 +00:00  INF]  Executed endpoint 'MarketDataProj.Controllers.MarketDataUploadController.GetJobDetail (MarketData)'
+[2023-01-29 20:19:31.630 +00:00  ERR]  An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Sequence contains no elements
+   at System.Linq.ThrowHelper.ThrowNoElementsException()
+   at System.Linq.Enumerable.Single[TSource](IEnumerable`1 source)
+   at MongoDB.Driver.IAsyncCursorExtensions.SingleAsync[TDocument](IAsyncCursor`1 cursor, CancellationToken cancellationToken)
+   at MongoDB.Driver.IAsyncCursorSourceExtensions.SingleAsync[TDocument](IAsyncCursorSource`1 source, CancellationToken cancellationToken)
+   at MarketData.DAL.DbMarketRepository.GetOrCreateMarketDataJob(Guid jobId, MarketDataContributionRequest job) in C:\Data\Code\socgen\MarketDataProj\MarketData.Data\DbMarketRepository.cs:line 31
+   at MarketData.Service.MarketDataService.GetStatusOfJob(Guid jobId) in C:\Data\Code\socgen\MarketDataProj\MarketData.Service\MarketDataService.cs:line 42
+   at MarketDataProj.Controllers.MarketDataUploadController.GetJobDetail(Guid jobId) in C:\Data\Code\socgen\MarketDataProj\MarketDataProj\Controllers\MarketDataUploadController.cs:line 23
+   at lambda_method5(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+[2023-01-29 20:19:31.705 +00:00  INF]  Request finished HTTP/2 GET https://localhost:7193/MarketDataUpload?jobId=123e4567-e89b-12d3-a456-426614174000 - - - 500 - text/plain;+charset=utf-8 42898.9142ms
+[2023-01-29 20:21:57.632 +00:00  INF]  Now listening on: https://localhost:7193
+[2023-01-29 20:21:57.655 +00:00  INF]  Now listening on: http://localhost:5087
+[2023-01-29 20:21:57.658 +00:00  INF]  Application started. Press Ctrl+C to shut down.
+[2023-01-29 20:21:57.658 +00:00  INF]  Hosting environment: Development
+[2023-01-29 20:21:57.658 +00:00  INF]  Content root path: C:\Data\Code\socgen\MarketDataProj\MarketDataProj\
+[2023-01-29 20:21:58.091 +00:00  INF]  Request starting HTTP/2 GET https://localhost:7193/swagger/index.html - -
+[2023-01-29 20:21:58.347 +00:00  INF]  Request starting HTTP/2 GET https://localhost:7193/_framework/aspnetcore-browser-refresh.js - -
+[2023-01-29 20:21:58.347 +00:00  INF]  Request starting HTTP/2 GET https://localhost:7193/_vs/browserLink - -
+[2023-01-29 20:21:58.357 +00:00  INF]  Request finished HTTP/2 GET https://localhost:7193/_framework/aspnetcore-browser-refresh.js - - - 200 11990 application/javascript;+charset=utf-8 8.6574ms
+[2023-01-29 20:21:58.357 +00:00  INF]  Request finished HTTP/2 GET https://localhost:7193/swagger/index.html - - - 200 - text/html;charset=utf-8 267.6827ms
+[2023-01-29 20:21:58.398 +00:00  INF]  Request finished HTTP/2 GET https://localhost:7193/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 51.0679ms
+[2023-01-29 20:21:58.448 +00:00  INF]  Request starting HTTP/2 GET https://localhost:7193/swagger/v1/swagger.json - -
+[2023-01-29 20:21:58.566 +00:00  INF]  Request finished HTTP/2 GET https://localhost:7193/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 117.8723ms
+[2023-01-29 20:22:13.385 +00:00  INF]  Request starting HTTP/2 GET https://localhost:7193/MarketDataUpload?jobId=123e4567-e89b-12d3-a456-426614174000 - -
+[2023-01-29 20:22:13.392 +00:00  INF]  Executing endpoint 'MarketDataProj.Controllers.MarketDataUploadController.GetJobDetail (MarketData)'
+[2023-01-29 20:22:13.445 +00:00  INF]  Route matched with {action = "GetJobDetail", controller = "MarketDataUpload"}. Executing controller action with signature System.Threading.Tasks.Task`1[MarketData.Common.Models.MarketDataContributionRequest] GetJobDetail(System.Guid) on controller MarketDataProj.Controllers.MarketDataUploadController (MarketData).
+[2023-01-29 20:25:41.045 +00:00  INF]  Now listening on: https://localhost:7193
+[2023-01-29 20:25:41.069 +00:00  INF]  Now listening on: http://localhost:5087
+[2023-01-29 20:25:41.072 +00:00  INF]  Application started. Press Ctrl+C to shut down.
+[2023-01-29 20:25:41.072 +00:00  INF]  Hosting environment: Development
+[2023-01-29 20:25:41.072 +00:00  INF]  Content root path: C:\Data\Code\socgen\MarketDataProj\MarketDataProj\
+[2023-01-29 20:25:41.471 +00:00  INF]  Request starting HTTP/2 GET https://localhost:7193/swagger/index.html - -
+[2023-01-29 20:25:41.729 +00:00  INF]  Request starting HTTP/2 GET https://localhost:7193/_framework/aspnetcore-browser-refresh.js - -
+[2023-01-29 20:25:41.729 +00:00  INF]  Request starting HTTP/2 GET https://localhost:7193/_vs/browserLink - -
+[2023-01-29 20:25:41.736 +00:00  INF]  Request finished HTTP/2 GET https://localhost:7193/swagger/index.html - - - 200 - text/html;charset=utf-8 263.8635ms
+[2023-01-29 20:25:41.736 +00:00  INF]  Request finished HTTP/2 GET https://localhost:7193/_framework/aspnetcore-browser-refresh.js - - - 200 11990 application/javascript;+charset=utf-8 7.6082ms
+[2023-01-29 20:25:41.749 +00:00  INF]  Request finished HTTP/2 GET https://localhost:7193/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 19.9050ms
+[2023-01-29 20:25:41.811 +00:00  INF]  Request starting HTTP/2 GET https://localhost:7193/swagger/v1/swagger.json - -
+[2023-01-29 20:25:41.945 +00:00  INF]  Request finished HTTP/2 GET https://localhost:7193/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 134.5092ms
+[2023-01-29 20:25:50.647 +00:00  INF]  Request starting HTTP/2 GET https://localhost:7193/MarketDataUpload?jobId=123e4567-e89b-12d3-a456-426614174000 - -
+[2023-01-29 20:25:50.654 +00:00  INF]  Executing endpoint 'MarketDataProj.Controllers.MarketDataUploadController.GetJobDetail (MarketData)'
+[2023-01-29 20:25:50.721 +00:00  INF]  Route matched with {action = "GetJobDetail", controller = "MarketDataUpload"}. Executing controller action with signature System.Threading.Tasks.Task`1[MarketData.Common.Models.MarketDataContributionRequest] GetJobDetail(System.Guid) on controller MarketDataProj.Controllers.MarketDataUploadController (MarketData).
+[2023-01-29 20:28:35.621 +00:00  INF]  Now listening on: https://localhost:7193
+[2023-01-29 20:28:35.651 +00:00  INF]  Now listening on: http://localhost:5087
+[2023-01-29 20:28:35.655 +00:00  INF]  Application started. Press Ctrl+C to shut down.
+[2023-01-29 20:28:35.655 +00:00  INF]  Hosting environment: Development
+[2023-01-29 20:28:35.655 +00:00  INF]  Content root path: C:\Data\Code\socgen\MarketDataProj\MarketDataProj\
+[2023-01-29 20:28:36.422 +00:00  INF]  Request starting HTTP/2 GET https://localhost:7193/swagger/index.html - -
+[2023-01-29 20:28:36.939 +00:00  INF]  Request starting HTTP/2 GET https://localhost:7193/_framework/aspnetcore-browser-refresh.js - -
+[2023-01-29 20:28:36.940 +00:00  INF]  Request starting HTTP/2 GET https://localhost:7193/_vs/browserLink - -
+[2023-01-29 20:28:36.978 +00:00  INF]  Request finished HTTP/2 GET https://localhost:7193/swagger/index.html - - - 200 - text/html;charset=utf-8 561.7460ms
+[2023-01-29 20:28:36.978 +00:00  INF]  Request finished HTTP/2 GET https://localhost:7193/_framework/aspnetcore-browser-refresh.js - - - 200 11990 application/javascript;+charset=utf-8 36.7302ms
+[2023-01-29 20:28:36.998 +00:00  INF]  Request finished HTTP/2 GET https://localhost:7193/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 58.0920ms
+[2023-01-29 20:28:37.198 +00:00  INF]  Request starting HTTP/2 GET https://localhost:7193/swagger/v1/swagger.json - -
+[2023-01-29 20:28:37.509 +00:00  INF]  Request finished HTTP/2 GET https://localhost:7193/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 311.6059ms
+[2023-01-29 20:28:55.779 +00:00  INF]  Request starting HTTP/2 GET https://localhost:7193/MarketDataUpload?jobId=123e4567-e89b-12d3-a456-426614174000 - -
+[2023-01-29 20:28:55.785 +00:00  INF]  Executing endpoint 'MarketDataProj.Controllers.MarketDataUploadController.GetJobDetail (MarketData)'
+[2023-01-29 20:28:55.813 +00:00  INF]  Route matched with {action = "GetJobDetail", controller = "MarketDataUpload"}. Executing controller action with signature System.Threading.Tasks.Task`1[MarketData.Common.Models.MarketDataContributionRequest] GetJobDetail(System.Guid) on controller MarketDataProj.Controllers.MarketDataUploadController (MarketData).
+[2023-01-29 20:29:53.470 +00:00  ERR]  Error retrieving Job
+System.InvalidOperationException: Sequence contains no elements
+   at System.Linq.ThrowHelper.ThrowNoElementsException()
+   at System.Linq.Enumerable.Single[TSource](IEnumerable`1 source)
+   at MongoDB.Driver.IAsyncCursorExtensions.SingleAsync[TDocument](IAsyncCursor`1 cursor, CancellationToken cancellationToken)
+   at MongoDB.Driver.IAsyncCursorSourceExtensions.SingleAsync[TDocument](IAsyncCursorSource`1 source, CancellationToken cancellationToken)
+   at MarketData.DAL.DbMarketRepository.GetOrCreateMarketDataJob(Guid jobId, MarketDataContributionRequest job) in C:\Data\Code\socgen\MarketDataProj\MarketData.Data\DbMarketRepository.cs:line 43
+[2023-01-29 20:29:53.520 +00:00  INF]  Executing ObjectResult, writing value of type 'MarketData.Common.Models.MarketDataContributionRequest'.
+[2023-01-29 20:29:53.553 +00:00  INF]  Executed action MarketDataProj.Controllers.MarketDataUploadController.GetJobDetail (MarketData) in 57730.9965ms
+[2023-01-29 20:29:53.557 +00:00  INF]  Executed endpoint 'MarketDataProj.Controllers.MarketDataUploadController.GetJobDetail (MarketData)'
+[2023-01-29 20:29:53.558 +00:00  INF]  Request finished HTTP/2 GET https://localhost:7193/MarketDataUpload?jobId=123e4567-e89b-12d3-a456-426614174000 - - - 200 - application/json;+charset=utf-8 57779.4688ms
+[2023-01-29 20:30:08.469 +00:00  INF]  Request starting HTTP/2 GET https://localhost:7193/MarketDataUpload?jobId=123e4567-e89b-12d3-a456-426614174000 - -
+[2023-01-29 20:30:08.470 +00:00  INF]  Executing endpoint 'MarketDataProj.Controllers.MarketDataUploadController.GetJobDetail (MarketData)'
+[2023-01-29 20:30:08.470 +00:00  INF]  Route matched with {action = "GetJobDetail", controller = "MarketDataUpload"}. Executing controller action with signature System.Threading.Tasks.Task`1[MarketData.Common.Models.MarketDataContributionRequest] GetJobDetail(System.Guid) on controller MarketDataProj.Controllers.MarketDataUploadController (MarketData).
+[2023-01-29 20:33:25.884 +00:00  INF]  Now listening on: https://localhost:7193
+[2023-01-29 20:33:25.910 +00:00  INF]  Now listening on: http://localhost:5087
+[2023-01-29 20:33:25.913 +00:00  INF]  Application started. Press Ctrl+C to shut down.
+[2023-01-29 20:33:25.913 +00:00  INF]  Hosting environment: Development
+[2023-01-29 20:33:25.913 +00:00  INF]  Content root path: C:\Data\Code\socgen\MarketDataProj\MarketDataProj\
+[2023-01-29 20:33:26.503 +00:00  INF]  Request starting HTTP/2 GET https://localhost:7193/swagger/index.html - -
+[2023-01-29 20:33:26.787 +00:00  INF]  Request starting HTTP/2 GET https://localhost:7193/_framework/aspnetcore-browser-refresh.js - -
+[2023-01-29 20:33:26.789 +00:00  INF]  Request starting HTTP/2 GET https://localhost:7193/_vs/browserLink - -
+[2023-01-29 20:33:26.789 +00:00  INF]  Request finished HTTP/2 GET https://localhost:7193/swagger/index.html - - - 200 - text/html;charset=utf-8 289.0401ms
+[2023-01-29 20:33:26.799 +00:00  INF]  Request finished HTTP/2 GET https://localhost:7193/_framework/aspnetcore-browser-refresh.js - - - 200 11990 application/javascript;+charset=utf-8 12.4340ms
+[2023-01-29 20:33:26.816 +00:00  INF]  Request finished HTTP/2 GET https://localhost:7193/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 26.9848ms
+[2023-01-29 20:33:26.927 +00:00  INF]  Request starting HTTP/2 GET https://localhost:7193/swagger/v1/swagger.json - -
+[2023-01-29 20:33:27.116 +00:00  INF]  Request finished HTTP/2 GET https://localhost:7193/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 188.2705ms
+[2023-01-29 20:33:38.598 +00:00  INF]  Request starting HTTP/2 GET https://localhost:7193/MarketDataUpload?jobId=123e4567-e89b-12d3-a456-426614174000 - -
+[2023-01-29 20:33:38.607 +00:00  INF]  Executing endpoint 'MarketDataProj.Controllers.MarketDataUploadController.GetJobDetail (MarketData)'
+[2023-01-29 20:33:38.667 +00:00  INF]  Route matched with {action = "GetJobDetail", controller = "MarketDataUpload"}. Executing controller action with signature System.Threading.Tasks.Task`1[MarketData.Common.Models.MarketDataContributionRequest] GetJobDetail(System.Guid) on controller MarketDataProj.Controllers.MarketDataUploadController (MarketData).
+[2023-01-29 20:34:35.420 +00:00  INF]  Executing ObjectResult, writing value of type 'MarketData.Common.Models.MarketDataContributionRequest'.
+[2023-01-29 20:34:35.447 +00:00  INF]  Executed action MarketDataProj.Controllers.MarketDataUploadController.GetJobDetail (MarketData) in 56767.9727ms
+[2023-01-29 20:34:35.451 +00:00  INF]  Executed endpoint 'MarketDataProj.Controllers.MarketDataUploadController.GetJobDetail (MarketData)'
+[2023-01-29 20:34:35.452 +00:00  INF]  Request finished HTTP/2 GET https://localhost:7193/MarketDataUpload?jobId=123e4567-e89b-12d3-a456-426614174000 - - - 200 - application/json;+charset=utf-8 56853.1190ms
+[2023-01-29 20:34:43.829 +00:00  INF]  Request starting HTTP/2 GET https://localhost:7193/MarketDataUpload?jobId=caeb5ad8-351d-49c8-b369-4c70477e95ae - -
+[2023-01-29 20:34:43.830 +00:00  INF]  Executing endpoint 'MarketDataProj.Controllers.MarketDataUploadController.GetJobDetail (MarketData)'
+[2023-01-29 20:34:43.830 +00:00  INF]  Route matched with {action = "GetJobDetail", controller = "MarketDataUpload"}. Executing controller action with signature System.Threading.Tasks.Task`1[MarketData.Common.Models.MarketDataContributionRequest] GetJobDetail(System.Guid) on controller MarketDataProj.Controllers.MarketDataUploadController (MarketData).
+[2023-01-29 20:35:25.287 +00:00  INF]  Executing ObjectResult, writing value of type 'MarketData.Common.Models.MarketDataContributionRequest'.
+[2023-01-29 20:35:25.288 +00:00  INF]  Executed action MarketDataProj.Controllers.MarketDataUploadController.GetJobDetail (MarketData) in 41457.9073ms
+[2023-01-29 20:35:25.289 +00:00  INF]  Executed endpoint 'MarketDataProj.Controllers.MarketDataUploadController.GetJobDetail (MarketData)'
+[2023-01-29 20:35:25.289 +00:00  INF]  Request finished HTTP/2 GET https://localhost:7193/MarketDataUpload?jobId=caeb5ad8-351d-49c8-b369-4c70477e95ae - - - 200 - application/json;+charset=utf-8 41459.9642ms
+[2023-01-29 20:37:07.964 +00:00  INF]  Now listening on: https://localhost:7193
+[2023-01-29 20:37:07.987 +00:00  INF]  Now listening on: http://localhost:5087
+[2023-01-29 20:37:07.990 +00:00  INF]  Application started. Press Ctrl+C to shut down.
+[2023-01-29 20:37:07.990 +00:00  INF]  Hosting environment: Development
+[2023-01-29 20:37:07.990 +00:00  INF]  Content root path: C:\Data\Code\socgen\MarketDataProj\MarketDataProj\
+[2023-01-29 20:37:08.506 +00:00  INF]  Request starting HTTP/2 GET https://localhost:7193/swagger/index.html - -
+[2023-01-29 20:37:08.779 +00:00  INF]  Request finished HTTP/2 GET https://localhost:7193/swagger/index.html - - - 200 - text/html;charset=utf-8 277.1203ms
+[2023-01-29 20:37:08.801 +00:00  INF]  Request starting HTTP/2 GET https://localhost:7193/_vs/browserLink - -
+[2023-01-29 20:37:08.803 +00:00  INF]  Request starting HTTP/2 GET https://localhost:7193/_framework/aspnetcore-browser-refresh.js - -
+[2023-01-29 20:37:08.822 +00:00  INF]  Request finished HTTP/2 GET https://localhost:7193/_framework/aspnetcore-browser-refresh.js - - - 200 11990 application/javascript;+charset=utf-8 19.5413ms
+[2023-01-29 20:37:08.853 +00:00  INF]  Request finished HTTP/2 GET https://localhost:7193/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 51.3902ms
+[2023-01-29 20:37:08.891 +00:00  INF]  Request starting HTTP/2 GET https://localhost:7193/swagger/v1/swagger.json - -
+[2023-01-29 20:37:09.002 +00:00  INF]  Request finished HTTP/2 GET https://localhost:7193/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 111.0745ms
+[2023-01-29 21:49:24.058 +00:00  INF]  Now listening on: https://localhost:7193
+[2023-01-29 21:49:24.084 +00:00  INF]  Now listening on: http://localhost:5087
+[2023-01-29 21:49:24.087 +00:00  INF]  Application started. Press Ctrl+C to shut down.
+[2023-01-29 21:49:24.087 +00:00  INF]  Hosting environment: Development
+[2023-01-29 21:49:24.087 +00:00  INF]  Content root path: C:\Data\Code\socgen\MarketDataProj\MarketDataProj\
+[2023-01-29 21:49:24.891 +00:00  INF]  Request starting HTTP/2 GET https://localhost:7193/swagger/index.html - -
+[2023-01-29 21:49:25.140 +00:00  INF]  Request starting HTTP/2 GET https://localhost:7193/_framework/aspnetcore-browser-refresh.js - -
+[2023-01-29 21:49:25.140 +00:00  INF]  Request starting HTTP/2 GET https://localhost:7193/_vs/browserLink - -
+[2023-01-29 21:49:25.156 +00:00  INF]  Request finished HTTP/2 GET https://localhost:7193/_framework/aspnetcore-browser-refresh.js - - - 200 11990 application/javascript;+charset=utf-8 14.3160ms
+[2023-01-29 21:49:25.156 +00:00  INF]  Request finished HTTP/2 GET https://localhost:7193/swagger/index.html - - - 200 - text/html;charset=utf-8 265.7277ms
+[2023-01-29 21:49:25.167 +00:00  INF]  Request finished HTTP/2 GET https://localhost:7193/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 26.4661ms
+[2023-01-29 21:49:25.221 +00:00  INF]  Request starting HTTP/2 GET https://localhost:7193/swagger/v1/swagger.json - -
+[2023-01-29 21:49:25.340 +00:00  INF]  Request finished HTTP/2 GET https://localhost:7193/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 118.4433ms
+[2023-01-29 21:56:49.723 +00:00  INF]  Request starting HTTP/2 POST https://localhost:7193/MarketDataUpload?publisher=CME&productCode=E6&unit=1 application/json 617
+[2023-01-29 21:56:49.734 +00:00  INF]  Executing endpoint 'MarketDataProj.Controllers.MarketDataUploadController.SubmitMarketData (MarketData)'
+[2023-01-29 21:56:49.769 +00:00  INF]  Route matched with {action = "SubmitMarketData", controller = "MarketDataUpload"}. Executing controller action with signature System.Threading.Tasks.Task`1[MarketData.Common.Models.MarketDataContributionRequest] SubmitMarketData(System.String, System.String, System.String, System.Collections.Generic.IList`1[MarketData.Common.Models.MarketDataFutureValue]) on controller MarketDataProj.Controllers.MarketDataUploadController (MarketData).
+[2023-01-29 21:57:44.421 +00:00  INF]  Executing ObjectResult, writing value of type 'MarketData.Common.Models.MarketDataContributionRequest'.
+[2023-01-29 21:57:44.452 +00:00  INF]  Executed action MarketDataProj.Controllers.MarketDataUploadController.SubmitMarketData (MarketData) in 54672.2461ms
+[2023-01-29 21:57:44.456 +00:00  INF]  Executed endpoint 'MarketDataProj.Controllers.MarketDataUploadController.SubmitMarketData (MarketData)'
+[2023-01-29 21:57:44.458 +00:00  INF]  Request finished HTTP/2 POST https://localhost:7193/MarketDataUpload?publisher=CME&productCode=E6&unit=1 application/json 617 - 200 - application/json;+charset=utf-8 54735.5669ms
+[2023-01-29 22:20:01.488 +00:00  INF]  Request starting HTTP/2 POST https://localhost:7193/MarketDataUpload?publisher=CBOT&productCode=WTI&unit=100 application/json 617
+[2023-01-29 22:20:01.488 +00:00  INF]  Executing endpoint 'MarketDataProj.Controllers.MarketDataUploadController.SubmitMarketData (MarketData)'
+[2023-01-29 22:20:01.489 +00:00  INF]  Route matched with {action = "SubmitMarketData", controller = "MarketDataUpload"}. Executing controller action with signature System.Threading.Tasks.Task`1[MarketData.Common.Models.MarketDataContributionRequest] SubmitMarketData(System.String, System.String, System.String, System.Collections.Generic.IList`1[MarketData.Common.Models.MarketDataFutureValue]) on controller MarketDataProj.Controllers.MarketDataUploadController (MarketData).
+[2023-01-29 22:20:01.496 +00:00  INF]  Executing ObjectResult, writing value of type 'MarketData.Common.Models.MarketDataContributionRequest'.
+[2023-01-29 22:20:01.496 +00:00  INF]  Executed action MarketDataProj.Controllers.MarketDataUploadController.SubmitMarketData (MarketData) in 7.7959ms
+[2023-01-29 22:20:01.497 +00:00  INF]  Executed endpoint 'MarketDataProj.Controllers.MarketDataUploadController.SubmitMarketData (MarketData)'
+[2023-01-29 22:20:01.497 +00:00  INF]  Request finished HTTP/2 POST https://localhost:7193/MarketDataUpload?publisher=CBOT&productCode=WTI&unit=100 application/json 617 - 200 - application/json;+charset=utf-8 9.0822ms

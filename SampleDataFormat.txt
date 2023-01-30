@@ -1,0 +1,34 @@
+[
+  {
+    "tenor": "JAN 23",
+    "last": 1,
+    "open": 0.2,
+    "high": 1.5,
+    "low": 0.5,
+    "publishTime": "2023-01-29T21:49:28.401Z"
+  },
+   {
+      "tenor": "FEB 23",
+      "last": 1.1,
+      "open": 0.6,
+      "high": 1.5,
+      "low": 0.5,
+      "publishTime": "2023-01-29T21:49:28.401Z"
+  },
+   {
+      "tenor": "MAR 23",
+      "last": 1.2,
+      "open": 0.8,
+      "high": 1.5,
+      "low": 0.5,
+      "publishTime": "2023-01-29T21:49:28.401Z"
+  },
+   {
+      "tenor": "APR 23",
+      "last": 1,
+      "open": 0.2,
+      "high": 1.5,
+      "low": 0.5,
+      "publishTime": "2023-01-29T21:49:28.401Z"
+  }
+]

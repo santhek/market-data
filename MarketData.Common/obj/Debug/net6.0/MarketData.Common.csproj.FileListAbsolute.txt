@@ -1,0 +1,12 @@
+C:\Data\Code\socgen\MarketDataProj\MarketData.Common\bin\Debug\net6.0\MarketData.Common.deps.json
+C:\Data\Code\socgen\MarketDataProj\MarketData.Common\bin\Debug\net6.0\MarketData.Common.dll
+C:\Data\Code\socgen\MarketDataProj\MarketData.Common\bin\Debug\net6.0\MarketData.Common.pdb
+C:\Data\Code\socgen\MarketDataProj\MarketData.Common\obj\Debug\net6.0\MarketData.Common.csproj.AssemblyReference.cache
+C:\Data\Code\socgen\MarketDataProj\MarketData.Common\obj\Debug\net6.0\MarketData.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Code\socgen\MarketDataProj\MarketData.Common\obj\Debug\net6.0\MarketData.Common.AssemblyInfoInputs.cache
+C:\Data\Code\socgen\MarketDataProj\MarketData.Common\obj\Debug\net6.0\MarketData.Common.AssemblyInfo.cs
+C:\Data\Code\socgen\MarketDataProj\MarketData.Common\obj\Debug\net6.0\MarketData.Common.csproj.CoreCompileInputs.cache
+C:\Data\Code\socgen\MarketDataProj\MarketData.Common\obj\Debug\net6.0\MarketData.Common.dll
+C:\Data\Code\socgen\MarketDataProj\MarketData.Common\obj\Debug\net6.0\refint\MarketData.Common.dll
+C:\Data\Code\socgen\MarketDataProj\MarketData.Common\obj\Debug\net6.0\MarketData.Common.pdb
+C:\Data\Code\socgen\MarketDataProj\MarketData.Common\obj\Debug\net6.0\ref\MarketData.Common.dll

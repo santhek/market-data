@@ -1,0 +1,15 @@
+C:\Data\Code\socgen\MarketDataProj\MarketData.Data\bin\Debug\net6.0\MarketData.DAL.deps.json
+C:\Data\Code\socgen\MarketDataProj\MarketData.Data\bin\Debug\net6.0\MarketData.DAL.dll
+C:\Data\Code\socgen\MarketDataProj\MarketData.Data\bin\Debug\net6.0\MarketData.DAL.pdb
+C:\Data\Code\socgen\MarketDataProj\MarketData.Data\bin\Debug\net6.0\MarketData.Common.dll
+C:\Data\Code\socgen\MarketDataProj\MarketData.Data\bin\Debug\net6.0\MarketData.Common.pdb
+C:\Data\Code\socgen\MarketDataProj\MarketData.Data\obj\Debug\net6.0\MarketData.DAL.csproj.AssemblyReference.cache
+C:\Data\Code\socgen\MarketDataProj\MarketData.Data\obj\Debug\net6.0\MarketData.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Code\socgen\MarketDataProj\MarketData.Data\obj\Debug\net6.0\MarketData.DAL.AssemblyInfoInputs.cache
+C:\Data\Code\socgen\MarketDataProj\MarketData.Data\obj\Debug\net6.0\MarketData.DAL.AssemblyInfo.cs
+C:\Data\Code\socgen\MarketDataProj\MarketData.Data\obj\Debug\net6.0\MarketData.DAL.csproj.CoreCompileInputs.cache
+C:\Data\Code\socgen\MarketDataProj\MarketData.Data\obj\Debug\net6.0\MarketData.DAL.csproj.CopyComplete
+C:\Data\Code\socgen\MarketDataProj\MarketData.Data\obj\Debug\net6.0\MarketData.DAL.dll
+C:\Data\Code\socgen\MarketDataProj\MarketData.Data\obj\Debug\net6.0\refint\MarketData.DAL.dll
+C:\Data\Code\socgen\MarketDataProj\MarketData.Data\obj\Debug\net6.0\MarketData.DAL.pdb
+C:\Data\Code\socgen\MarketDataProj\MarketData.Data\obj\Debug\net6.0\ref\MarketData.DAL.dll
